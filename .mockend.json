@@ -3,6 +3,5 @@
       "ActivityName": "string",
       "DateCompleted": "date",
       "ID":"int"
-    },
-    "data" : ["ActivityLog"]
+    }
   }
